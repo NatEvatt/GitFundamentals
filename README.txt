@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Vim is really hard
 stop whining you baby
+These are my changes
 =======
 Hello, Git
 Updating README with new information
