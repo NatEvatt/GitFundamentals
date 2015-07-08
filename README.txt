@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Vim is really hard
-stop whining you baby
-These are my changes
+Git Fundamentals
 =======
 Hello, Git
 Updating README with new information
@@ -14,4 +11,4 @@ Another fix to Bug#1234
 Feature1
 Feature2
 Feature2 changes
->>>>>>> origin/master
+
