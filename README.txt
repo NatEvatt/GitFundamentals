@@ -14,3 +14,4 @@ Feature2 changes
 these are my changes
 hello
 feature1
+another fix to feature1
