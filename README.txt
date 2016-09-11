@@ -13,5 +13,10 @@ Feature2
 Feature2 changes
 these are my changes
 hello
+
 feature1
 another fix to feature1
+feature2
+fixing bug 4321
+feature2 changes
+
